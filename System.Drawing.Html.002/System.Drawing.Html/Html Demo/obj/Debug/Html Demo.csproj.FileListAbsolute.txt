@@ -1,0 +1,12 @@
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\bin\Debug\Html Demo.exe
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\bin\Debug\Html Demo.pdb
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\bin\Debug\System.Drawing.Html.dll
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\bin\Debug\System.Drawing.Html.pdb
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\obj\Debug\Html Demo.csprojResolveAssemblyReference.cache
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\obj\Debug\Html_Demo.MainForm.resources
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\obj\Debug\Html_Demo.Properties.Resources.resources
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\obj\Debug\Html_Demo.ColorPicker.resources
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\obj\Debug\Html_Demo.SampleForm.resources
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\obj\Debug\Html Demo.csproj.GenerateResource.Cache
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\obj\Debug\Html Demo.exe
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\Html Demo\obj\Debug\Html Demo.pdb

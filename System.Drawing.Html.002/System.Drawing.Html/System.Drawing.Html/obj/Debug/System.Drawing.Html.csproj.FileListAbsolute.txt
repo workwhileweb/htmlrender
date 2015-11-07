@@ -1,0 +1,7 @@
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\System.Drawing.Html\bin\Debug\System.Drawing.Html.dll
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\System.Drawing.Html\bin\Debug\System.Drawing.Html.pdb
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\System.Drawing.Html\obj\Debug\System.Drawing.Html.csprojResolveAssemblyReference.cache
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\System.Drawing.Html\obj\Debug\System.Drawing.Html.Properties.Resources.resources
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\System.Drawing.Html\obj\Debug\System.Drawing.Html.csproj.GenerateResource.Cache
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\System.Drawing.Html\obj\Debug\System.Drawing.Html.dll
+E:\Data\System.Drawing.Html.002\System.Drawing.Html.002\System.Drawing.Html\System.Drawing.Html\obj\Debug\System.Drawing.Html.pdb
